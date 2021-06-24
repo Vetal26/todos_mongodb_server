@@ -1,0 +1,21 @@
+{
+  "name": "todos_mongodb_server",
+  "version": "1.0.0",
+  "description": "mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "NODE_ENV=development nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
