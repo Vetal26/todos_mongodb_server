@@ -3,7 +3,6 @@
 ## About The Project
 The application allows:
 - Add todo
-- Drag and drop todos
 - Delete todos
 - Mark the execution status of todos
 
@@ -17,6 +16,7 @@ The application uses the following platforms, frameworks and libraries:
 
 ## Getting Started
 Requires [Node.js](https://nodejs.org/) v14.17.0 to run.
+The client side is [here](https://github.com/Vetal26/todos_mongodb_client.git).
 
 ### Installation
 1. Clone the repo.
@@ -39,4 +39,4 @@ Distributed under the MIT License.
 
 ## Contact
 If you have any questions, please contact by email: vbshmit@gmail.com.
-Sincerely Borisov Vitaly.
+Sincerely Vitaly Borisov.
